@@ -1,0 +1,20 @@
+main-title { font-size: 28px;color: royalblue; }
+/* The main top-level header */
+h1 + p .special {
+  color: rgb(242, 242, 15);
+  background-color: black;
+  padding: 10px;
+}
+
+h2 {
+  color: red;
+}
+
+/* This is color for the 3rd header */
+h3 {
+  color: red;
+}
+p {
+  color: black;
+}
+
